@@ -50,6 +50,7 @@
     border-radius: 10px;
     box-sizing: border-box;
     color: inherit;
+    --state: 0;
     opacity: 1;
     box-shadow: inset 4px 4px 6px #FFFFFF29, 2px 2px 2px #00000029;
 }
