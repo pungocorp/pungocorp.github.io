@@ -43,6 +43,9 @@
     100% {opacity:0}
 }
 
+.iconClass{
+    filter: invert(100%);
+}
 
 .buttonClass{
     border: none;
