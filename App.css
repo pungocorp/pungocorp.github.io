@@ -48,6 +48,7 @@
 }
 
 .buttonClass{
+    touch-action: manipulation;
     border: none;
     background: #ECEAEF 0% 0% no-repeat padding-box;
     border-radius: 10px;
