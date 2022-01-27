@@ -2,11 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta property="og:title" content="Sözck - Kelime Tahmin Oyunu">
+    <meta property="og:title" content="Sozck - Kelime Tahmin Oyunu">
     <meta property="og:description" content="Kelimeyi tahmin etmek için sadece birkaç hakkın var. Bakalım Başarabilecek misin?">
     <meta property="og:url" content="https://pungocorp.github.io/sozck/">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Sozck">
     <title>Sozck</title>
     <link rel="stylesheet" href="App.css">
+    <linkk rel="stylesheet" type="text/css" href="/addToHomeScreen/style/addtohomescreen.css">
     <link rel="manifest" href="/manifest.json">
     <meta name="viewport" content= initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -19,6 +26,12 @@
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3705202925859468"
             crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/addToHomeScreen/src/addtohomescreen.js"></script>
+    <script>
+    	if (
+    		(("standalone" in window.navigator) && !window.navigator.standalone) || (!window.matchMedia('display-mode: standalone)').matches )
+    		) { addToHomeScreen();}
+    </script>
 
 </head>
 <body>
