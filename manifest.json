@@ -1,17 +1,17 @@
 {
-  "short_name": "Sözck",
-  "name": "Sözck - Kelime Tahmin Oyunu",
+  "short_name": "Sozck",
+  "name": "Sozck - Kelime Tahmin Oyunu",
   "icons": [
     {
       "src": "/icon/icon.png",
       "type": "image/png",
-      "sizes": "512x512"
-    }
+      "sizes": "192x192"
+    },
   ],
-  "start_url": "/",
-  "background_color": "#EDEAEA",
+  "start_url": "/sozck/index.html",
+  "theme_color": "#EDEAEA",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/sozck",
 
   "description": "Kelimeyi tahmin etmek için sadece birkaç hakkın var. Bakalım Başarabilecek misin?",
 }
