@@ -6,7 +6,7 @@
       "src": "/icon/icon.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
+    }
   ],
   "start_url": "/sozck/index.html",
   "theme_color": "#EDEAEA",
