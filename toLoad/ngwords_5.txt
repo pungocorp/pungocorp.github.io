@@ -8,4 +8,5 @@ aftos
 kopil
 paçoz
 puluç
+kavat
 bikir
