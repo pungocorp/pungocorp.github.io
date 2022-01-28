@@ -8,10 +8,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/sozck",
+  "start_url": "/",
   "background_color": "#EDEAEA",
   "display": "standalone",
-  "scope": "/sozck",
+  "scope": "/",
 
   "description": "Kelimeyi tahmin etmek için sadece birkaç hakkın var. Bakalım Başarabilecek misin?",
 }
