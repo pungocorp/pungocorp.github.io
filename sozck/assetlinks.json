@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.pungo.sozck",
+                     "sha256_cert_fingerprints": ["5C:35:E0:88:EB:0F:A5:74:48:D2:AB:43:55:3D:B5:DE:3F:A0:00:47:E4:FF:D1:A1:08:22:15:A3:1F:AA:65:74"] }
+      }
+]
