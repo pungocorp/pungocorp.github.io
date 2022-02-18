@@ -1,6 +1,11 @@
-[{
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target" : { "namespace": "android_app", "package_name": "",
-                     "sha256_cert_fingerprints": ["B4:86:75:4B:7E:C7:8F:FC:4E:5E:AC:F7:5C:7E:FE:EB:87:66:60:17:FC:13:E5:79:72:81:B2:18:D6:54:1E:33"] }
-      }
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pungo.sozck",
+      "sha256_cert_fingerprints":
+        ["B4:86:75:4B:7E:C7:8F:FC:4E:5E:AC:F7:5C:7E:FE:EB:87:66:60:17:FC:13:E5:79:72:81:B2:18:D6:54:1E:33"]
+    }
+  }
 ]
